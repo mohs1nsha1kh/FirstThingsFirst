@@ -1,0 +1,2 @@
+# FirstThingsFirst
+Learning GIT
